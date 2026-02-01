@@ -1,4 +1,4 @@
-# Local_RAG_UI
+# Langgraph_RAG_UI
 A fully offline RAG chatbot using Langchain, FAISS,Ollama, and PDF documents
 #Features
 - No API keys required
@@ -13,12 +13,13 @@ A fully offline RAG chatbot using Langchain, FAISS,Ollama, and PDF documents
   #Tools
   - Python
   - Langchain
+  - Langgraph
   - FAISS
   - Sentence Transformers
   - Ollama
 
 # Install Dependencies
-   pip install langchain langchain_community sentence transformers faiss-cpu pypdf ollama
+   pip install langgraph langchain langchain_community sentence transformers faiss-cpu pypdf ollama
 
 # Output
 - Retrieved chunks
