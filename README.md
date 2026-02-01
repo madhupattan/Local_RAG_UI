@@ -1,5 +1,5 @@
 # Langgraph_RAG_UI
-A fully offline RAG chatbot using Langgraph, FAISS,Ollama, and PDF documents
+A fully offline RAG chatbot using Langgraph, FAISS,Ollama,Streamlit and PDF documents
 #Features
 - No API keys required
 - Fully local execution
@@ -17,9 +17,11 @@ A fully offline RAG chatbot using Langgraph, FAISS,Ollama, and PDF documents
   - FAISS
   - Sentence Transformers
   - Ollama
+  - Streamlit
 
 # Install Dependencies
    pip install langgraph langchain langchain_community sentence transformers faiss-cpu pypdf ollama
+   pip install streamlit
 
 # Output
 - Retrieved chunks
