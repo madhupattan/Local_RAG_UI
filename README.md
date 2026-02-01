@@ -1,5 +1,5 @@
 # Langgraph_RAG_UI
-A fully offline RAG chatbot using Langchain, FAISS,Ollama, and PDF documents
+A fully offline RAG chatbot using Langgraph, FAISS,Ollama, and PDF documents
 #Features
 - No API keys required
 - Fully local execution
