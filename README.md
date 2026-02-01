@@ -30,4 +30,6 @@ A fully offline RAG chatbot using Langchain, FAISS,Ollama, and PDF documents
 - What is Agentic AI?
 - How does Agentic AI differ from Traditional AI?
 - What value does Agentic AI bring to businesses?
-  
+
+
+                            
